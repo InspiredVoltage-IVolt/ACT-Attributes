@@ -11,10 +11,10 @@
     "C:\\Users\\MarkAlicz\\.nuget\\packages\\": {}
   },
   "project": {
-    "version": "1.0.0",
+    "version": "2.0.2",
     "restore": {
       "projectUniqueName": "D:\\IVolt_Development\\__GITHUB\\ACT_Attributes\\ACT-Attributes\\ACT_Attributes_Solution\\ACT_Attributes_Library\\ACT_Attributes_Library.csproj",
-      "projectName": "ACT_Attributes_Library",
+      "projectName": "ACT_Attributes",
       "projectPath": "D:\\IVolt_Development\\__GITHUB\\ACT_Attributes\\ACT-Attributes\\ACT_Attributes_Solution\\ACT_Attributes_Library\\ACT_Attributes_Library.csproj",
       "packagesPath": "C:\\Users\\MarkAlicz\\.nuget\\packages\\",
       "outputPath": "D:\\IVolt_Development\\__GITHUB\\ACT_Attributes\\ACT-Attributes\\ACT_Attributes_Solution\\ACT_Attributes_Library\\obj\\",
