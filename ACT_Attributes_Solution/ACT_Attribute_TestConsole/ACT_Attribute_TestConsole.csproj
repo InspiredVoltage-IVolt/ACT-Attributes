@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>disable</Nullable>
+    <RootNamespace>ACT.TestConsole.Attribute</RootNamespace>
+    <StartupObject>ACT.TestConsole.Attribute.Program</StartupObject>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\ACT_Attributes_Library\ACT_Attributes_Library.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -13,6 +13,5 @@ namespace ACT.Core.Attributes
     {
         public event System.EventHandler<ACT_Attribute> OnDetected;
 
-
     }
 }

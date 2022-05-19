@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACT_Attributes_Library", "ACT_Attributes_Library\ACT_Attributes_Library.csproj", "{E4873A5E-D957-43AD-A7C3-65D0832B248A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ACT_Attributes_Library", "ACT_Attributes_Library\ACT_Attributes_Library.csproj", "{E4873A5E-D957-43AD-A7C3-65D0832B248A}"
 EndProject
 Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Resources", "..\..\..\_Resources_Shared\Resources\Resources\Resources.shproj", "{48C2C9AB-5274-4BE2-BA97-3C3C81B271BA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACT_Attribute_TestConsole", "ACT_Attribute_TestConsole\ACT_Attribute_TestConsole.csproj", "{94309932-BF54-4082-B9ED-B88D1F793DB2}"
 EndProject
 Global
 	GlobalSection(SharedMSBuildProjectFiles) = preSolution
@@ -20,6 +22,10 @@ Global
 		{E4873A5E-D957-43AD-A7C3-65D0832B248A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4873A5E-D957-43AD-A7C3-65D0832B248A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4873A5E-D957-43AD-A7C3-65D0832B248A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94309932-BF54-4082-B9ED-B88D1F793DB2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94309932-BF54-4082-B9ED-B88D1F793DB2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94309932-BF54-4082-B9ED-B88D1F793DB2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94309932-BF54-4082-B9ED-B88D1F793DB2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
