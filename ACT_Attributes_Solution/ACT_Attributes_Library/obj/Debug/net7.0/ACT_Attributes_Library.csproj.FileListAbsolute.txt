@@ -1,0 +1,12 @@
+D:\IVolt_Development\__GITHUB\ACT_Attributes\ACT-Attributes\ACT_Attributes_Solution\ACT_Attributes_Library\obj\Debug\net7.0\ACT_Attributes_Library.csproj.AssemblyReference.cache
+D:\IVolt_Development\__GITHUB\ACT_Attributes\ACT-Attributes\ACT_Attributes_Solution\ACT_Attributes_Library\obj\Debug\net7.0\ACT_Attributes_Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\IVolt_Development\__GITHUB\ACT_Attributes\ACT-Attributes\ACT_Attributes_Solution\ACT_Attributes_Library\obj\Debug\net7.0\ACT_Attributes_Library.AssemblyInfoInputs.cache
+D:\IVolt_Development\__GITHUB\ACT_Attributes\ACT-Attributes\ACT_Attributes_Solution\ACT_Attributes_Library\obj\Debug\net7.0\ACT_Attributes_Library.AssemblyInfo.cs
+D:\IVolt_Development\__GITHUB\ACT_Attributes\ACT-Attributes\ACT_Attributes_Solution\ACT_Attributes_Library\obj\Debug\net7.0\ACT_Attributes_Library.csproj.CoreCompileInputs.cache
+D:\IVolt_Releases\ACT_Attributes\Debug\net7.0\ACT_Attributes.deps.json
+D:\IVolt_Releases\ACT_Attributes\Debug\net7.0\ACT_Attributes.dll
+D:\IVolt_Releases\ACT_Attributes\Debug\net7.0\ACT_Attributes.pdb
+D:\IVolt_Development\__GITHUB\ACT_Attributes\ACT-Attributes\ACT_Attributes_Solution\ACT_Attributes_Library\obj\Debug\net7.0\ACT_Attributes.dll
+D:\IVolt_Development\__GITHUB\ACT_Attributes\ACT-Attributes\ACT_Attributes_Solution\ACT_Attributes_Library\obj\Debug\net7.0\refint\ACT_Attributes.dll
+D:\IVolt_Development\__GITHUB\ACT_Attributes\ACT-Attributes\ACT_Attributes_Solution\ACT_Attributes_Library\obj\Debug\net7.0\ACT_Attributes.pdb
+D:\IVolt_Development\__GITHUB\ACT_Attributes\ACT-Attributes\ACT_Attributes_Solution\ACT_Attributes_Library\obj\Debug\net7.0\ref\ACT_Attributes.dll

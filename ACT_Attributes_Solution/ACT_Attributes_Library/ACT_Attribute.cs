@@ -11,7 +11,7 @@ namespace ACT.Core.Attributes
     [AttributeUsage(AttributeTargets.All, Inherited = true, AllowMultiple = false)]
     public abstract class ACT_Attribute : Attribute
     {
-        public event System.EventHandler<ACT_Attribute> OnDetected;
+        public event EventHandler<ACT_Attribute> OnDetected;
 
     }
 }

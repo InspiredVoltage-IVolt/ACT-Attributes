@@ -7,7 +7,7 @@ using ACT.Core.Attributes.Developer;
 
 namespace ACT.TestConsole.Attribute
 {
-    [DevTask( ClassName = "ACT_ATTRIBUTE_EXAMPLE", Last_Developer_Info = "Mark Alicz", Original_Developer_Info = "Mark Alicz", Priority = 1)]
+    [Developer_Information(Last_Developer_Info = "Mark Alicz", Original_Developer_Info = "Mark Alicz", Priority = 1)]
     public class ACT_ATTRIBUTE_EXAMPLE
     {
         public static Dictionary<string, string> GetAllAttributes<T>(T ClassObj)

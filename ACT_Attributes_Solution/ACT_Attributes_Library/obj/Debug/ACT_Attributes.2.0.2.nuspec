@@ -7,7 +7,6 @@
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <license type="expression">AGPL-3.0-or-later</license>
     <licenseUrl>https://licenses.nuget.org/AGPL-3.0-or-later</licenseUrl>
-    <icon>ACT_ATTRIBUTES_LOGO.png</icon>
     <projectUrl>https://www.act-net.us/Documentation/ACT_Attributes/</projectUrl>
     <description>Simple Library containing attributes that are used in all ACT Based Code.</description>
     <releaseNotes>Simple Attribute Support - Basic Automation</releaseNotes>
@@ -26,6 +25,5 @@
     <file src="D:\IVolt_Releases\ACT_Attributes\Debug\net6.0\ACT_Attributes.dll" target="lib\net6.0\ACT_Attributes.dll" />
     <file src="D:\IVolt_Development\__GITHUB\ACT_Attributes\ACT-Attributes\ACT_Attributes_Solution\ACT_Attributes_Library\ACT_SQUARE.ico" target="content\ACT_SQUARE.ico" />
     <file src="D:\IVolt_Development\__GITHUB\ACT_Attributes\ACT-Attributes\ACT_Attributes_Solution\ACT_Attributes_Library\ACT_SQUARE.ico" target="contentFiles\any\net6.0\ACT_SQUARE.ico" />
-    <file src="M:\Shared drives\Assets\__IVOLT_ALL_MEDIA-Assets\IVolt_Product_Images\ACT\ACT_Attributes\ACT_ATTRIBUTES_LOGO.png" target="\ACT_ATTRIBUTES_LOGO.png" />
   </files>
 </package>

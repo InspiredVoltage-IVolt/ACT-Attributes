@@ -1,10 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "C+aeG5hXFInmy33UCieyuMyq/fuuM3vidjkFXehsDFTARmrZ3mvFQ8VhP3a3axfSg+tcMGbvujViethoa97otA==",
+  "dgSpecHash": "2HRq8renIydgMdWbdHZ5F/ZJR/OEpNOi/3t6JnvRyJRtlrE2mMJwjhsLjmAWzr4g6BLjN74oJ/wBli4Kcg5dmQ==",
   "success": true,
   "projectFilePath": "D:\\IVolt_Development\\__GITHUB\\ACT_Attributes\\ACT-Attributes\\ACT_Attributes_Solution\\ACT_Attribute_TestConsole\\ACT_Attribute_TestConsole.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\MarkAlicz\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\MarkAlicz\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\MarkAlicz\\.nuget\\packages\\act_attributes\\2.0.2.3\\act_attributes.2.0.2.3.nupkg.sha512"
   ],
   "logs": []
 }

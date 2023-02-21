@@ -5,14 +5,14 @@ VisualStudioVersion = 17.1.32421.90
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ACT_Attributes_Library", "ACT_Attributes_Library\ACT_Attributes_Library.csproj", "{E4873A5E-D957-43AD-A7C3-65D0832B248A}"
 EndProject
-Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Resources", "..\..\..\_Resources_Shared\Resources\Resources\Resources.shproj", "{48C2C9AB-5274-4BE2-BA97-3C3C81B271BA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ACT_Attribute_TestConsole", "ACT_Attribute_TestConsole\ACT_Attribute_TestConsole.csproj", "{94309932-BF54-4082-B9ED-B88D1F793DB2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ACT_Attribute_TestConsole", "ACT_Attribute_TestConsole\ACT_Attribute_TestConsole.csproj", "{94309932-BF54-4082-B9ED-B88D1F793DB2}"
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{66D4F822-6A5D-4821-ABD4-E762BC6BCA9A}"
+	ProjectSection(SolutionItems) = preProject
+		.editorconfig = .editorconfig
+	EndProjectSection
 EndProject
 Global
-	GlobalSection(SharedMSBuildProjectFiles) = preSolution
-		..\..\..\_Resources_Shared\Resources\Resources\Resources.projitems*{48c2c9ab-5274-4be2-ba97-3c3c81b271ba}*SharedItemsImports = 13
-	EndGlobalSection
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
 		Release|Any CPU = Release|Any CPU

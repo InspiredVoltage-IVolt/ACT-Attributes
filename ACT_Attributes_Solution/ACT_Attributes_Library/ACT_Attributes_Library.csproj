@@ -1,27 +1,29 @@
 <Project Sdk="Microsoft.NET.Sdk">
 
   <PropertyGroup>
-    <TargetFramework>net6.0</TargetFramework>
+    <TargetFramework>net7.0</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
     <Nullable>disable</Nullable>
     <ApplicationIcon>ACT_SQUARE.ico</ApplicationIcon>
-    <BaseOutputPath>D:\IVolt_Releases\ACT_Attributes</BaseOutputPath>
+    <BaseOutputPath>D:\IVolt_Releases\ACT_Attributes\</BaseOutputPath>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Version>2.0.2</Version>
+    <Version>2.3.1.0</Version>
     <Authors>Mark Alicz</Authors>
     <Company>IVolt LLC</Company>
     <Description>Simple Library containing attributes that are used in all ACT Based Code.</Description>
     <Copyright>2022-2023 IVolt, LLC - Mark Alicz</Copyright>
     <PackageProjectUrl>https://www.act-net.us/Documentation/ACT_Attributes/</PackageProjectUrl>
-    <PackageIcon>ACT_ATTRIBUTES_LOGO.png</PackageIcon>
+    <PackageIcon></PackageIcon>
     <PackageTags>ACT;C#;Attributes;Library;StandAlone</PackageTags>
     <PackageReleaseNotes>Simple Attribute Support - Basic Automation</PackageReleaseNotes>
-    <AssemblyVersion>2.0.2</AssemblyVersion>
-    <FileVersion>2.0.2</FileVersion>
+    <AssemblyVersion>2.0.2.3</AssemblyVersion>
+    <FileVersion>2.0.2.3</FileVersion>
     <PackageLicenseExpression>AGPL-3.0-or-later</PackageLicenseExpression>
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
     <RootNamespace>ACT.Core.Attributes</RootNamespace>
     <AssemblyName>ACT_Attributes</AssemblyName>
+    <Title>ACT_Attributes - System Attributes as well as common Attributes</Title>
+    <PackageOutputPath>D:\IVolt_Releases\ACT_Attributes\Packages\$(Platform)\$(Configuration)</PackageOutputPath>
   </PropertyGroup>
 
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|AnyCPU'">
@@ -37,14 +39,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <None Include="M:\Shared drives\Assets\__IVOLT_ALL_MEDIA-Assets\IVolt_Product_Images\ACT\ACT_Attributes\ACT_ATTRIBUTES_LOGO.png">
-      <Pack>True</Pack>
-      <PackagePath>\</PackagePath>
-    </None>
+    <None Include="..\.editorconfig" Link=".editorconfig" />
   </ItemGroup>
 
   <ItemGroup>
-    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.2" />
   </ItemGroup>
 
 </Project>

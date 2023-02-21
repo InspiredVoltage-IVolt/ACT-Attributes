@@ -1,10 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "tHoWBK8KZbBRF1v6vTCMoPfdWVSEzCSp7LQP6yBNuSSmgF53dVQnY/rSyTM33XXD2eEUAUm83as2lyr916ai3A==",
+  "dgSpecHash": "A/QHeIUfufVJXpfLD5R4IokivWvnPoO4SJ5sjlCdOEFVHA+DhqKSYlUBLXG3LhTuU3Tn9gv9jPMbM6oZhybuzA==",
   "success": true,
   "projectFilePath": "D:\\IVolt_Development\\__GITHUB\\ACT_Attributes\\ACT-Attributes\\ACT_Attributes_Solution\\ACT_Attributes_Library\\ACT_Attributes_Library.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\MarkAlicz\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+    "C:\\Users\\MarkAlicz\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
   ],
   "logs": []
 }

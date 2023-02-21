@@ -5,7 +5,7 @@
   },
   "projects": {
     "D:\\IVolt_Development\\__GITHUB\\ACT_Attributes\\ACT-Attributes\\ACT_Attributes_Solution\\ACT_Attributes_Library\\ACT_Attributes_Library.csproj": {
-      "version": "2.0.2",
+      "version": "2.0.2.3",
       "restore": {
         "projectUniqueName": "D:\\IVolt_Development\\__GITHUB\\ACT_Attributes\\ACT-Attributes\\ACT_Attributes_Solution\\ACT_Attributes_Library\\ACT_Attributes_Library.csproj",
         "projectName": "ACT_Attributes",
@@ -13,8 +13,13 @@
         "packagesPath": "C:\\Users\\MarkAlicz\\.nuget\\packages\\",
         "outputPath": "D:\\IVolt_Development\\__GITHUB\\ACT_Attributes\\ACT-Attributes\\ACT_Attributes_Solution\\ACT_Attributes_Library\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Users\\MarkAlicz\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\MarkAlicz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MarkAlicz\\AppData\\Roaming\\NuGet\\config\\Godot.Offline.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress .NET Core Desktop 20.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
@@ -24,9 +29,8 @@
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
-          "http://actnuget.homeunix.com:5555/v3/index.json": {},
-          "https://api.nuget.org/v3/index.json": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\_AI\\AISkillsForWindows-master\\samples\\SentimentAnalyzerCustomSkill\\build": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -56,7 +60,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -65,7 +70,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     },
@@ -78,8 +83,13 @@
         "packagesPath": "C:\\Users\\MarkAlicz\\.nuget\\packages\\",
         "outputPath": "D:\\IVolt_Development\\__GITHUB\\ACT_Attributes\\ACT-Attributes\\ACT_Attributes_Solution\\ACT_Attribute_TestConsole\\obj\\",
         "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Users\\MarkAlicz\\AppData\\Roaming\\Godot\\mono\\GodotNuGetFallbackFolder",
+          "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
         "configFilePaths": [
           "C:\\Users\\MarkAlicz\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MarkAlicz\\AppData\\Roaming\\NuGet\\config\\Godot.Offline.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress .NET Core Desktop 20.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
@@ -89,9 +99,8 @@
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
-          "http://actnuget.homeunix.com:5555/v3/index.json": {},
-          "https://api.nuget.org/v3/index.json": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "D:\\_AI\\AISkillsForWindows-master\\samples\\SentimentAnalyzerCustomSkill\\build": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -119,7 +128,8 @@
             "net47",
             "net471",
             "net472",
-            "net48"
+            "net48",
+            "net481"
           ],
           "assetTargetFallback": true,
           "warn": true,
@@ -128,7 +138,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
         }
       }
     }
