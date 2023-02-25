@@ -28,7 +28,7 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "D:\\_AI\\AISkillsForWindows-master\\samples\\SentimentAnalyzerCustomSkill\\build": {},
+          "http://localhost:5000/v3/index.json": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
