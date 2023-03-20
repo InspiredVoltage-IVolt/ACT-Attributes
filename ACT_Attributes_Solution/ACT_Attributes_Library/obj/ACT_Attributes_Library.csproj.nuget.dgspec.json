@@ -5,7 +5,7 @@
   },
   "projects": {
     "D:\\IVolt_Development\\__GITHUB\\ACT_Attributes\\ACT-Attributes\\ACT_Attributes_Solution\\ACT_Attributes_Library\\ACT_Attributes_Library.csproj": {
-      "version": "2.3.1",
+      "version": "2.3.3.1",
       "restore": {
         "projectUniqueName": "D:\\IVolt_Development\\__GITHUB\\ACT_Attributes\\ACT-Attributes\\ACT_Attributes_Solution\\ACT_Attributes_Library\\ACT_Attributes_Library.csproj",
         "projectName": "ACT_Attributes",
@@ -21,6 +21,7 @@
           "C:\\Users\\MarkAlicz\\AppData\\Roaming\\NuGet\\config\\Godot.Offline.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress .NET Core Desktop 20.1.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -68,7 +69,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.103\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.104\\RuntimeIdentifierGraph.json"
         }
       }
     }

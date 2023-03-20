@@ -7,7 +7,7 @@
     <ApplicationIcon>ACT_SQUARE.ico</ApplicationIcon>
     <BaseOutputPath>D:\IVolt_Releases\ACT_Attributes\</BaseOutputPath>
     <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
-    <Version>2.3.1.0</Version>
+    <Version>2.3.3.1</Version>
     <Authors>Mark Alicz</Authors>
     <Company>IVolt LLC</Company>
     <Description>Simple Library containing attributes that are used in all ACT Based Code.</Description>
@@ -16,8 +16,8 @@
     <PackageIcon></PackageIcon>
     <PackageTags>ACT;C#;Attributes;Library;StandAlone</PackageTags>
     <PackageReleaseNotes>Simple Attribute Support - Basic Automation</PackageReleaseNotes>
-    <AssemblyVersion>2.0.2.3</AssemblyVersion>
-    <FileVersion>2.0.2.3</FileVersion>
+    <AssemblyVersion>2.3.3.1</AssemblyVersion>
+    <FileVersion>2.3.3.1</FileVersion>
     <PackageLicenseExpression>AGPL-3.0-or-later</PackageLicenseExpression>
     <PackageRequireLicenseAcceptance>True</PackageRequireLicenseAcceptance>
     <RootNamespace>ACT.Core.Attributes</RootNamespace>
